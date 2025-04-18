@@ -1,6 +1,8 @@
 # 💫 About Me:
 👯 I’m looking to collaborate on Frontend Development projects<br>🌱 I’m currently diving deeper into the MERN Stack<br>💬 Ask me about HTML, CSS, JavaScript, React, or anything Frontend<br>⚡ Fun fact: I love turning creative ideas into sleek, responsive interfaces!
 
+![image](https://github.com/user-attachments/assets/4c7907ff-6db6-4c59-a08d-aac0f63f7b71)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.kpratik._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pratikkore04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iampratikkore@gmail.com) 
