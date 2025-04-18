@@ -1,7 +1,7 @@
 # 💫 About Me:
 👯 I’m looking to collaborate on Frontend Development projects<br>🌱 I’m currently diving deeper into the MERN Stack<br>💬 Ask me about HTML, CSS, JavaScript, React, or anything Frontend<br>⚡ Fun fact: I love turning creative ideas into sleek, responsive interfaces!
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100vw">
 <br><br>
 
 ## 🌐 Socials:
