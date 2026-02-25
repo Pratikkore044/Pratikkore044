@@ -1,5 +1,30 @@
 # 💫 About Me:
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Pratik+Kore+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+Developer;Redux+RestfulAPIs+JWT+%7C+Tailwind+Farmer;Building+in+Public+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
+---
+
+## 🚀 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 💻 Full Stack Development
+Building scalable, production-ready web applications with the MERN stack. Specialized in creating secure authentication systems, RESTful APIs, and cloud-integrated solutions.
+
+</td>
+<td width="50%">
+
+### 📱ReactJS Development  
+Developing cross-platform applications using React and Vite, delivering seamless experiences across platforms.
+
+</td>
+</tr>
+</table>
+
 👯 I’m looking to collaborate on: Full-stack MERN applications and scalable Frontend architectures.
 
 🌱 I’m currently building: Robust web solutions using MongoDB, Express.js, React, and Node.js.
