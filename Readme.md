@@ -19,7 +19,7 @@ Building scalable, production-ready web applications with the MERN stack. Specia
 <td width="50%">
 
 ### 📱ReactJS Development  
-Developing cross-platform applications using React and Vite, delivering seamless experiences across platforms.
+Developing cross-platform applications using React and Vite, delivering seamless experiences across different platforms.
 
 </td>
 </tr>
