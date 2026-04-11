@@ -80,19 +80,53 @@ Developing cross-platform applications using React and Vite, delivering seamless
   <img src="https://img.shields.io/badge/Railway-46E3B7?style=for-the-badge&logo=railway&logoColor=white" />
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pratikkore044&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Pratikkore044&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikkore044&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Pratikkore044&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Pratikkore044&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://raw.githubusercontent.com/Pratikkore044/Pratikkore044/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/Pratikkore044/Pratikkore044/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/Pratikkore044/Pratikkore044/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pratikkore044&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratikkore044&theme=tokyo-night)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 FocusFlow (MERN + TypeScript)
+- Full-stack productivity & task management app
+- JWT Authentication + Role-based access
+- REST APIs with Swagger documentation
+- Deployed on Render
+
+---
+
+### 🔹 Portfolio Website
+- Responsive personal portfolio
+- Built with React + Tailwind CSS
+- Optimized for performance & UI/UX
+
+---
+
+## 📊 Developer Stats
+
+- 💻 Built multiple full-stack MERN projects
+- ⚛️ Strong expertise in React ecosystem
+- 🔗 Experience with REST APIs & integrations
+- 🚀 Deployment experience (Render, Vercel)
+
+---
+
+## 📌 Profile Metrics
+
+![Followers](https://img.shields.io/github/followers/Pratikkore044?style=social)
+![Stars](https://img.shields.io/github/stars/Pratikkore044?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=Pratikkore044)
+
+---
+
+## ✨ Fun Fact
+I focus on writing **clean, scalable, and maintainable code** 🚀
