@@ -80,24 +80,19 @@ Developing cross-platform applications using React and Vite, delivering seamless
   <img src="https://img.shields.io/badge/Railway-46E3B7?style=for-the-badge&logo=railway&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratikkore044&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Pratikkore044&theme=tokyonight&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikkore044&layout=compact&theme=tokyonight&cache_seconds=1800)
-
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Pratikkore044&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Pratikkore044&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikkore044&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Pratikkore044&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Pratikkore044&theme=tokyonight&margin-w=10)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Pratikkore044&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-## 🔝 Top Contributed Repo
-
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=Pratikkore044&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-
+[![](https://visitcount.itsvg.in/api?id=Pratikkore044&icon=0&color=0)](https://visitcount.itsvg.in)
